@@ -1,6 +1,6 @@
 module github.com/myposter-de/imageref
 
-go 1.20
+go 1.25.0
 
 require (
 	github.com/davidbyttow/govips/v2 v2.13.0
@@ -9,7 +9,7 @@ require (
 )
 
 require (
-	golang.org/x/image v0.15.0 // indirect
-	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/image v0.41.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 )
